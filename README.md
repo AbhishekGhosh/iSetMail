@@ -28,7 +28,7 @@ Create an App for OS X Mail for Click to Configure e-mail settings. The structur
 			|--useroot.txt
 			|--usessl.txt
 		|--Info.plist
-		|--Pkginfo`
+		|--Pkginfo
 		
 
 You must edit the files for your own setup. These files should go under Contents under name-op-app.App
