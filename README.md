@@ -3,11 +3,6 @@ iSetMail
 
 Create an App for OS X Mail for Click to Configure e-mail settings. The structure of the App is like :
 
-iSetMail.App
-|
-|-Contents
-		|
-		|
 		|--MacOS
 			|--applet
 		|
@@ -33,7 +28,7 @@ iSetMail.App
 			|--useroot.txt
 			|--usessl.txt
 		|--Info.plist
-		|--Pkginfo
+		|--Pkginfo`
 		
 
 You must edit the files for your own setup. These files should go under Contents under name-op-app.App
